@@ -25,6 +25,7 @@ public class StockData {
 	private Long userId;
 	private Long stockId;
 	private double quantity;
+	private double price;
 	private double total;
 	
 	
